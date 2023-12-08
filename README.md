@@ -20,3 +20,7 @@ Sample Pictures:
 <h1>Cheating Instances shows to admin</h1>
 
 ![image](https://github.com/Ajitesh72/sih_proctoring_sample/assets/95878363/ae254560-5751-4a35-acd5-0b769c7d9b0c)
+
+<h1>Flowchart:</h1>
+
+![sih flowchart](https://github.com/Ajitesh72/sih_proctoring_sample/assets/95878363/9a7d58fe-3949-4191-a702-a39fced24315)
